@@ -7,4 +7,5 @@ print("added message 210428")
 
 # git add
 # git commit
+# git rm
 
